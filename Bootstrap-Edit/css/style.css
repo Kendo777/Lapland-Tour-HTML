@@ -1,0 +1,462 @@
+.masthead
+{
+  min-height: 30px;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 90%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+#home-page
+{
+    background: url("../Images/visit-rovaniemi-love-arctic-circle-web-opt-4.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#aurora-page
+{
+    background: url("../Images/50a074e6a81547788944_standard_desktop_medium_retina.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#guide-page
+{
+    background: url("../Images/19045.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#lapland-page
+{
+    background: url("../Images/lapland-trip-budget.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#contact-page
+{
+    background: url("../Images/soporte-al-cliente.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.carousel-inner img
+{
+    width: 1500px;
+    height: 750px;
+}
+.scroll-to-top
+{
+    z-index: 100;
+}
+#pos
+{
+    z-index: 1500;
+}
+#mainNav
+{
+    position: relative;
+}
+#seasons
+{
+    background-color: black!important;
+    color: whitesmoke;
+}
+#seasons img
+{
+    width: 600px;
+    height: 400px;
+}
+#seasons .row
+{
+    margin-bottom: 50px;
+}
+#legend
+{
+  min-height: 30px;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 60%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: url("../Images/3eb1f53eb33e9b745ca20094ba538ab3.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}#hguides
+{
+  min-height: 30px;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 60%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: url("../Images/visit-rovaniemi-love-arctic-circle-web-opt-2.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}#hlapland
+{
+  min-height: 30px;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 60%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: url("../Images/181122092502-01-rovaniemi-finland-file-2015.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}#hauroras
+{
+  min-height: 30px;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 60%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: url("../Images/auroras-boreales-luces-delnorte-21042019.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}#hcontact
+{
+  min-height: 30px;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 60%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: url("../Images/soporte-al-cliente.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#places img
+{
+    height: 600px;
+}
+#places
+{
+    background: rgba(140, 207, 210, 0.5);
+}
+.carousel-caption {
+    text-align: left;
+    background: rgba(0, 0, 0, 0.5);
+    top: 50px;
+    bottom: auto;
+    
+}
+#places .btn
+{
+    margin-left: 10px;
+}
+.carousel-caption h3, .carousel-caption h5
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#magic
+{
+  min-height: 30px;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 60%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: url("../Images/turisti%20lappi%20matkailu%20turismi.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#santa-claus
+{
+  min-height: 30px;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 60%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: url("../Images/%C2%BFTe-sabes-el-c%C3%B3digo-postal-de-Santa-Claus.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#text
+{
+    background: rgba(255, 255, 255, 0.4);
+}
+#legend h2, #about h2
+{
+    margin: 50px;
+}
+#about
+{
+  min-height: 30px;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 70%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: url("../Images/navidad-diferente-9.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#aboutL
+{
+  min-height: 30px;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 70%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: url("../Images/magic-lapland.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}#guides
+{
+  min-height: 30px;
+  position: relative;
+  display: table;
+  width: 100%;
+  height: 70%;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background: url("../Images/foro-del-campus-de-la-usj-la-autorizacion-para-que-esta-universidad-pudiera-impartir-magisterio-genero-la-polemica.jpeg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#aboutL img
+{
+    position: absolute;
+    right: 150px;
+    top: 100px;
+    width: 200px;
+    height: 400px;
+}
+#aboutL div
+{
+    z-index: 1;
+}
+.flipCard {
+  -webkit-perspective: 800;
+  -ms-perspective: 800;
+  -moz-perspective: 800;
+  -o-perspective: 800;
+   width: 300px;
+   height: 400px;
+   position: relative;
+   margin: 10px auto;
+}
+.flipCard .card.flipped {
+  transform:rotatey(-180deg);
+  -ms-transform:rotatey(-180deg); /* IE 9 */
+  -moz-transform:rotatey(-180deg); /* Firefox */
+  -webkit-transform:rotatey(-180deg); /* Safari and Chrome */
+  -o-transform:rotatey(-180deg); /* Opera */
+}
+.flipCard .card {
+  width: 100%;
+  height: 100%;
+  -webkit-transform-style: preserve-3d;
+  -webkit-transition: 0.5s;
+  -moz-transform-style: preserve-3d;
+  -moz-transition: 0.5s;
+  -ms-transform-style: preserve-3d;
+  -ms-transition: 0.5s;
+  -o-transform-style: preserve-3d;
+  -o-transition: 0.5s;
+  transform-style: preserve-3d;
+  transition: 0.5s;
+}
+.flipCard .card .side {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  cursor: pointer;
+  position: absolute;
+  box-sizing: border-box;
+  z-index: 2;
+  backface-visibility: hidden;  /* W3C */
+  -webkit-backface-visibility: hidden; /* Safari & Chrome */
+  -moz-backface-visibility: hidden; /* Firefox */
+  -ms-backface-visibility: hidden; /* Internet Explorer */
+  -o-backface-visibility: hidden; /* Opera */
+  box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  overflow: auto;
+}
+.flipCard .card .back {
+  background: white;
+  color: black;
+  transform:rotatey(-180deg);
+  -ms-transform:rotatey(-180deg); /* IE 9 */
+  -moz-transform:rotatey(-180deg); /* Firefox */
+  -webkit-transform:rotatey(-180deg); /* Safari and Chrome */
+  -o-transform:rotatey(-180deg); /* Opera */
+}
+/*
+.flipCard .card .front {
+
+  line-height: 160px;
+  background-image: url(giphy.gif);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+
+}*/
+#services .row
+{
+    margin-bottom: 50px;
+}
+#guides .row
+{
+    margin-top: 10px;
+}
+#title
+{
+    margin-bottom: 50px;
+}
+.flipCard .card .back {
+  border: 3px solid white;
+}
+#b0
+{
+   line-height: 160px;
+  background-image: url(../Images/WhatsApp%20Image%202019-10-20%20at%2023.57.20.jpeg);
+    background-size:100% 100%;
+border: 3px solid white;
+}#b1
+{
+   line-height: 160px;
+  background-image: url(../Images/WhatsApp%20Image%202019-10-21%20at%2000.12.52.jpeg);
+    background-size:100% 100%;
+border: 3px solid white;
+}
+#b0 div
+{
+   background: rgba(255, 255, 255, 0.4); 
+}
+#b1 div
+{
+   background: rgba(255, 255, 255, 0.2); 
+}
+#c1
+{
+line-height: 160px;
+  background-image: url(../Images/54732201_312356782763903_4624409027318504791_n.jpg);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}
+#c2
+{
+line-height: 160px;
+  background-image: url(../Images/je.jpg);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}#c3
+{
+line-height: 160px;
+  background-image: url(../Images/nestor_perales_fpplus.jpg);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}#c4
+{
+  
+line-height: 160px;
+  background-image: url(../Images/img1093933s.jpg);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}
+
+#c5
+{
+line-height: 160px;
+  background-image: url(../Images/Carlos_Cetina.jpg);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}#c6
+{
+line-height: 160px;
+  background-image: url(../Images/2.jpg);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}
+#c7
+{
+line-height: 160px;
+  background-image: url(../Images/R7EyH3JE_400x400.png);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}#c8
+{
+line-height: 160px;
+  background-image: url(../Images/1.jpg);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}#c9
+{
+line-height: 160px;
+  background-image: url(../Images/Africa_Domingo.jpg);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}#c10
+{
+line-height: 160px;
+  background-image: url(../Images/Violeta_Monasterio_Bazan.jpg);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}#c11
+{
+line-height: 160px;
+  background-image: url(../Images/IMG_2673.jpg);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}#c12
+{
+line-height: 160px;
+  background-image: url(../Images/CJUHwb1UwAQURd_.jpg);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}
+#c0
+{
+line-height: 160px;
+  background-image: url(../Images/1320075_1.jpg);
+    background-size:100% 100%;
+border: 3px solid white;
+  color: white;
+}
+#external-web
+{
+    background-color: #E1B925!important;
+}
+
+
